@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Api and Points calculation /renders App correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="Container"
+  >
+    <div
+      class="Content"
+    >
+      <h1>
+        Customer Rewards
+      </h1>
+      <div
+        class="Data"
+      >
+        <ul />
+      </div>
+      <div
+        class="Button"
+      >
+        <button>
+          Display Points
+        </button>
+      </div>
+      <div
+        class="ShowResults"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
